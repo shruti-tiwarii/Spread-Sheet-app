@@ -22,7 +22,7 @@ This project is a spreadsheet application built with [Next.js](https://nextjs.or
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/shruti-tiwarii/your-repository.git
    cd your-repository
    ```
 
